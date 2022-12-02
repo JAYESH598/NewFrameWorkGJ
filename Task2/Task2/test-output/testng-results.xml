@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Scrolled Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Submitted Successfully]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-12-02T09:47:05 IST" name="Default suite" finished-at="2022-12-02T09:47:37 IST" duration-ms="32274">
+    <groups>
+    </groups>
+    <test started-at="2022-12-02T09:47:05 IST" name="Default test" finished-at="2022-12-02T09:47:37 IST" duration-ms="32274">
+      <class name="com.qa.task.ToolesQAApplicationTest">
+        <test-method is-config="true" signature="test1()[pri:0, instance:com.qa.task.ToolesQAApplicationTest@54a7079e]" started-at="2022-12-02T09:47:05 IST" name="test1" finished-at="2022-12-02T09:47:22 IST" duration-ms="16544" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test2()[pri:0, instance:com.qa.task.ToolesQAApplicationTest@54a7079e]" started-at="2022-12-02T09:47:22 IST" name="test2" finished-at="2022-12-02T09:47:37 IST" duration-ms="15678" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Scrolled Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Submitted Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="broWserLeft()[pri:0, instance:com.qa.task.ToolesQAApplicationTest@54a7079e]" started-at="2022-12-02T09:47:37 IST" name="broWserLeft" finished-at="2022-12-02T09:47:37 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- broWserLeft -->
+      </class> <!-- com.qa.task.ToolesQAApplicationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
